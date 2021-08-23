@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JakeT0m - Jake Tomaszewski
-- 👀 I’m interested in: Engineering, be it Software, Medical or Mechanical
+- 👀 I’m interested in: Engineering (Software, Medical or Mechanical)
 - 🌱 I’m currently learning: Machine Learning and Nerual Network algorithms
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Here!
 
 <!---
